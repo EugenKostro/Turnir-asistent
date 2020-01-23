@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace AsistentGUI
 {
-    public partial class Nagrada : Form
+    public partial class Kreiranjeturnira : Form
     {
-        public Nagrada()
+        public Kreiranjeturnira()
         {
             InitializeComponent();
+        }
+
+        private void lblNapraviturnir_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void KreiranjeTurnira_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

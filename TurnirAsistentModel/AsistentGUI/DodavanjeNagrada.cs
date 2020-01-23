@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace AsistentGUI
 {
-    public partial class DodavanjeUtakmice : Form
+    public partial class DodavanjeNagrada : Form
     {
-        public DodavanjeUtakmice()
+        public DodavanjeNagrada()
         {
             InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

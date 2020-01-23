@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace AsistentGUI
 {
-    public partial class Osoba : Form
+    public partial class TurnirAsistent : Form
     {
-        public Osoba()
+        public TurnirAsistent()
         {
             InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

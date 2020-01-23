@@ -16,5 +16,20 @@ namespace AsistentGUI
         {
             InitializeComponent();
         }
+
+        private void DodavanjeEkipe_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblDodajNovogIgraca_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblImeEkipe_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

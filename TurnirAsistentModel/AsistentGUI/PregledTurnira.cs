@@ -16,5 +16,30 @@ namespace AsistentGUI
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblNazivTurnira_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblTurnir_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void PregledTurnira_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnSpremiRezultat_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
